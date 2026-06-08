@@ -2,7 +2,7 @@
 
 > Semester project in [Transp-OR](https://www.epfl.ch/labs/transp-or/) laboratory at EPFL.
 > 
-> Author: Julien ARS in spring 2025, under the supervision of Léa Ricard and Prof. Michel Bierlaire.
+> Author: Julien ARS in spring 2025, under the supervision of Lea Ricard, Negar Rezvany and Prof. Michel Bierlaire.
 
 In this project, I developped an ALNS heuristic for use in railway rescheduling. It was part of a larger project for use in the RER Vaud under 3 different objectives (passenger cost, operator cost and deviation from the original timetable). The focus was on large disruptions, such as a track closure for 3 hours.
 
